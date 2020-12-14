@@ -12,6 +12,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 7b97900bca21419e8378c74e1b88557e, type: 3}
   m_Name: SelectPoint
   m_EditorClassIdentifier: 
-  _color: {r: 0.33578193, g: 1, b: 0, a: 1}
+  _color: {r: 0.5518868, g: 0.93120676, b: 1, a: 1}
   _handleSize: 0.04
   _pickSize: 0.06

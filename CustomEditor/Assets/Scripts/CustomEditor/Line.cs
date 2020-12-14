@@ -1,4 +1,5 @@
 ﻿using System;
+using UnityEditor;
 using UnityEngine;
 
 namespace CustomEditor
@@ -25,8 +26,11 @@ namespace CustomEditor
             return result;
         }
 
-        public void SetPoints(Vector3[] positions)
+        public void SetPoints(Vector3[] positions, string label)
         {
+#if UNITY_EDITOR
+            Undo.RecordObject(_lineRenderer, label);
+#endif
             _lineRenderer.SetPositions(positions);
         }
 

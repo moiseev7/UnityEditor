@@ -13,6 +13,7 @@
             <e p="EditorModes.cs" t="Include" />
             <e p="Line.cs" t="Include" />
             <e p="LineInspector.cs" t="Include" />
+            <e p="MovePoint.cs" t="Include" />
             <e p="Node.cs" t="Include" />
             <e p="NodesCollection.cs" t="Include" />
             <e p="SelectPoint.cs" t="Include" />

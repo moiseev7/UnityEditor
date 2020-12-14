@@ -31,21 +31,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e3e2e8ac-7433-448a-8224-c551cf55fc23" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/AbstractNodeAction.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/AbstractNodeAction.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/EditorModes.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/EditorModes.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/LineInspector.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/LineInspector.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Node.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Node.cs.meta" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/SelectPoint.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/SelectPoint.cs.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/MovePoint.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/MovePoint.cs.meta" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomEditor/.idea/contentModel.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomEditor/.idea/contentModel.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.CustomEditor/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.CustomEditor/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Configs/Move.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Configs/Move.asset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/SampleScene.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Line.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Line.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,10 +58,11 @@
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/NodesCollection.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Node.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/LineInspector.cs" />
-        <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Line.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/AbstractNodeAction.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/SelectPoint.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/Line.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CustomEditor/MovePoint.cs" />
       </list>
     </option>
   </component>
@@ -113,7 +107,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1607960916166</updated>
-      <workItem from="1607960921541" duration="2662000" />
+      <workItem from="1607960921541" duration="3434000" />
     </task>
     <servers />
   </component>
@@ -175,13 +169,13 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="DotNet Breakpoints">
           <url>file://$PROJECT_DIR$/Assets/Scripts/CustomEditor/DrawLine.cs</url>
-          <line>10</line>
+          <line>12</line>
           <properties documentPath="C:\Users\anton\Documents\Repo\UnityEditor\CustomEditor\Assets\Scripts\CustomEditor\DrawLine.cs" initialLine="10">
             <startOffsets>
-              <option value="319" />
+              <option value="343" />
             </startOffsets>
             <endOffsets>
-              <option value="320" />
+              <option value="344" />
             </endOffsets>
           </properties>
           <option name="timeStamp" value="1" />
